@@ -3,7 +3,7 @@
 A full-stack CRUD (Create, Read, Update, Delete) application built with Spring Boot backend and React frontend. This project demonstrates a complete user management system with modern UI and RESTful API integration.
 
 ## 🎯 Features
-
+ 
 - ✨ User registration and management
 - 🔐 Secure authentication
 - 📱 Responsive design 
