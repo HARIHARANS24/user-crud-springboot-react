@@ -12,7 +12,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Spring B
 - 📊 Form validation       
 - 🔍 Search and filter capabilities   
  
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### Backend
 - ☕ Java 17
