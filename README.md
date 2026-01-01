@@ -8,7 +8,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Spring B
 - 🔐 Secure authentication
 - 📱 Responsive design 
 - 🔄 Real-time data updates
-- 🎨 Modern UI with Material-UI    
+- 🎨 Modern UI with Material-UI     
 - 📊 Form validation      
 - 🔍 Search and filter capabilities   
  
