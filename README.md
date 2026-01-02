@@ -9,7 +9,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Spring B
 - 📱 Responsive design  
 - 🔄 Real-time data updates
 - 🎨 Modern UI with Material-UI     
-- 📊 Form validation        
+- 📊 Form validation         
 - 🔍 Search and filter capabilities   
  
 ## 🛠️ Tech Stack 
