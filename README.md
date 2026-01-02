@@ -6,7 +6,7 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with Spring B
  
 - ✨ User registration and management
 - 🔐 Secure authentication
-- 📱 Responsive design 
+- 📱 Responsive design  
 - 🔄 Real-time data updates
 - 🎨 Modern UI with Material-UI     
 - 📊 Form validation        
